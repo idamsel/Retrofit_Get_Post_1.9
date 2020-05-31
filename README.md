@@ -6,8 +6,7 @@ Before move further I give you short explanation that what is *Retrofit* actuall
 # Retrofit :-
 
   # 1.1 What is Retrofit?
-
-    **Retrofit** is a REST Client for Java and Android. 
+   **Retrofit** is a REST Client for Java and Android. 
     It makes it relatively easy to retrieve and upload JSON (or other structured data) via a REST based webservice. In Retrofit you configure which converter is used for the data serialization. 
     Typically for JSON you use GSon, but you can add custom converters to process XML or other protocols. Retrofit uses the OkHttp library for HTTP requests.
 
@@ -29,3 +28,4 @@ And then you follow  my code enjoy your data with **Retrofit**
 # ThankYou :relaxed:
 # KeepLearning :smiley:
 # SharingIsAlwaysCaring :heart:
+# MoreToCome :blush:
